@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cnt=0;
 fruits[((cnt++))]="Mango";
 fruits[((cnt++))]="Oranges";
